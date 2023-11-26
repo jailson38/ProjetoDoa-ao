@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity_main_usuario">Usuário</string>
+    <string name="activity_main_senha">Senha</string>
+    <string name="activity_main_entrar">Entrar</string>
+    <string name="activity_main_esqueci">Esqueci a senha</string>
+    <string name="activity_main_cadastrar">Cadastrar senha</string>
+    <string name="activity_main_falha_autenticaco">Falha na Autenticação</string>
+
+    <string name="activity_tela_cao">Cão</string>
+    <string name="activity_tela_gato">Gato</string>
+    <string name="activity_tela_coelho">Coelho</string>
+    <string name="activity_tela_calendario">Agendamentos</string>
+
+    <string name="activity_tela_novo_pet">Novo Pet</string>
+    <string name="actiity_tela_cadastrar_pet">Cadastrar Pet</string>
+
+    <string name="activity_tela_cadastro_raca">Raça</string>
+    <string name="activity_tela_cadastro_quantidade">Quantidade</string>
+    <string name="activity_tela_cadastro_tipo">Tipo</string>
+    <string-array name="activity_tela_cadastro_marca_tipo_itens">
+        <item>Vira lata</item>
+        <item>Pinscher</item>
+        <item>Pit bull</item>
+
+    </string-array>
+
+    <string name="activity_tela_cadastro_raca_porte">Porte</string>
+    <string-array name="activity_tela_cadastro_raca_porte_lista">
+        <item>Filhote</item>
+        <item>Adulto</item>
+        <item>Raças pequenas</item>
+        <item>Raças média</item>
+        <item>Raças grandes</item>
+    </string-array>
+
+    <string name="activity_tela_cadastro_salvar">Salvar</string>
+
+    <string name="activity_tela_cadastro_raca_salvo_com_sucesso">Ração salva com sucesso</string>
+    <string name="activity_tela_cadastro_rac_erro_ao_salvar">Erro ao salvar Pet</string>
+    <string name="activity_tela_cadastro_campos_validos">Favor preencher todos os campos</string>
+
+    <string name="activity_tela_cadastro_excluir">Excluir</string>
+</resources>
